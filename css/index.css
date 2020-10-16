@@ -41,8 +41,10 @@ header .menu-items a:hover {
         display: flex;
     }
 
-    header .menu-items{
+    header .menu-items { 
         display: flex;
         align-items: center
     }
+
+}
 

@@ -5,6 +5,11 @@
     font-family: 'Mukta', sans-serif;
 }
 
+body{
+    max-width: 1050px;
+    margin: auto;
+}
+
 header .logo {
     font-family: 'Krona One', sans-serif;
     font-size: 3.5rem;
@@ -32,7 +37,7 @@ header .menu-items a:hover {
 
 @media (min-width: 769px) {
 
-    header .header-nav 
+    header .header-nav {
         display: flex;
     }
 
